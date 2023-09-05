@@ -24,7 +24,7 @@
 ### 🛠 &nbsp;Tech Stack
 ![.C#](https://img.shields.io/badge/-.C#-05122A)&nbsp;
 ![.SQL](https://img.shields.io/badge/-.SQL-05122A)&nbsp;
-
+#512BD4
 
 
 
