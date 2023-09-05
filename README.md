@@ -21,10 +21,7 @@
 ### Connect with Me :
 
 <a href="https://linkedin.com/in/mohamed-nageh-32a214211" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Nageh-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-### 🛠 &nbsp;Tech Stack
-![.C#](https://img.shields.io/badge/-.C#-05122A)&nbsp;
-![.SQL](https://img.shields.io/badge/-.SQL-05122A)&nbsp;
-#512BD4
+
 
 
 
