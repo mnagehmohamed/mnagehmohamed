@@ -25,7 +25,7 @@
 ![.NET](https://img.shields.io/badge/-.NET-05122A)&nbsp;
 ![.C#](https://img.shields.io/badge/-.C#-05122A)&nbsp;
 ![.SQL](https://img.shields.io/badge/-.SQL-05122A)&nbsp;
-![..Net Core](https://img.shields.io/badge/-.Net Core-05122A)&nbsp;
+![.Net Core](https://img.shields.io/badge/-.Net Core-05122A)&nbsp;
 
 
 
